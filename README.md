@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @tanvee1909
+- 👋 Hi, I’m @tanvee1909,
 - 👀 I’m interested in coding and solving problems innovately also with that developing web applications and website .
 - 🌱 I’m currently learning web development . 
 
-- 📫 How to reach me whatsapp no : 7878208800
-- 😄 Pronouns: she / her
+- 📫 How to reach me whatsapp no : 7878208800.
+- 😄 Pronouns: she / her.
 
 
 <!---
