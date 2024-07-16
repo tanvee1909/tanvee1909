@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanvee1909,
+- 👋 Hi, I’m @tanveeKariya,
 - 👀 I’m interested in coding and solving problems innovately also with that developing web applications and website .
 - 🌱 I’m currently learning web development . 
 
